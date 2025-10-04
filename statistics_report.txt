@@ -1,0 +1,30 @@
+Car Sales Dataset Analysis: 
+
+1.Total Count numbers per Manufacture :
+Manufacturer
+Ford       14959
+VW         14913
+Toyota     12554
+BMW         4965
+Porsche     2609
+Name: count, dtype: int64 
+
+2.Average Price by Fuel Type :
+Fuel type
+Diesel    13145.078158
+Hybrid    14949.288154
+Petrol    13690.617742
+Name: Price, dtype: float64 
+
+3.Oldest Year :  1984
+
+4.Newest Year :  2022
+
+5.Top 5 most common models :
+Model
+Mondeo    5058
+Golf      5050
+Polo      4992
+Focus     4976
+Fiesta    4925
+Name: count, dtype: int64 
